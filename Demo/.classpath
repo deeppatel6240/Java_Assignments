@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="Day2Assignment"/>
+	<classpathentry kind="src" path="BasicAssignment"/>
+	<classpathentry kind="src" path="Day1Assignment"/>
+	<classpathentry kind="src" path="Day3Assignment"/>
+	<classpathentry kind="src" path="Day3ContainmentAndPackage"/>
+	<classpathentry kind="src" path="Day4Assignment"/>
+	<classpathentry kind="src" path="Day4AbstractAndFinal"/>
+	<classpathentry kind="src" path="Day5Interfaces"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
